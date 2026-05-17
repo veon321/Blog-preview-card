@@ -82,7 +82,6 @@ main {
     margin-block-end: 0;
     margin-inline: 0;
     cursor: pointer;
-    transition: color 0.2s ease;
 }
 
 .card-title:hover {
